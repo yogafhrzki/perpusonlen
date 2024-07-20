@@ -1,6 +1,6 @@
 # Sistem Informasi Perpustakaan
 
-Online Library System adalah aplikasi perpustakaan online yang dibangun menggunakan PHP dan MySQL. Aplikasi ini memungkinkan pengguna untuk mendaftar sebagai anggota, meminjam buku, dan mengelola buku yang mereka pinjam.
+Sistem Informasi Perpustakaan adalah aplikasi perpustakaan online yang dibangun menggunakan PHP dan MySQL. Aplikasi ini memungkinkan pengguna untuk mendaftar sebagai anggota, meminjam buku, dan mengelola buku yang mereka pinjam.
 
 ## Fitur
 
