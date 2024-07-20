@@ -2,6 +2,17 @@
 
 Sistem Informasi Perpustakaan adalah aplikasi perpustakaan online yang dibangun menggunakan PHP dan MySQL. Aplikasi ini memungkinkan pengguna untuk mendaftar sebagai anggota, meminjam buku, dan mengelola buku yang mereka pinjam.
 
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](https://github.com/yogafhrzki/perpusonlen/blob/main/Screenshot%202024-07-20%20124519.png?raw=true)
+
+### Screenshot 2
+![Screenshot 2](https://github.com/yogafhrzki/perpusonlen/blob/main/Screenshot%202024-07-20%20124539.png?raw=true)
+
+### Screenshot 3
+![Screenshot 3](https://github.com/yogafhrzki/perpusonlen/blob/main/Screenshot%202024-07-20%20124642.png?raw=true)
+
 ## Fitur
 
 - **Registrasi Anggota**: Pengguna dapat mendaftar sebagai anggota perpustakaan.
